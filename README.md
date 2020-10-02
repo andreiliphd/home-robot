@@ -19,12 +19,18 @@ Robot which is capable of "delivring" packages.
 ---
 
 ## Explanation
+
 add_marker - Adds and deletes markers.
+
 pick_objects - Navigation to a destination using move_base ROS package.
 
 Used packages:
+
 gmapping - SLAM algorithm implementation for localization and mapping.
+
 turtlebot_teleop - manual operation of a robot.
+
 turtlebot_rviz_launchers - RViz launcher.
+
 turtlebot_gazebo - Turtlebot robot adapted for Gazebo enviroment.
 
